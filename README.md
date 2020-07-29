@@ -6,6 +6,10 @@ In all of the models implemented, it's AMAZING how important hyperparameters are
 
 This is a getting started on computer vision [challenge on kaggle](https://www.kaggle.com/c/digit-recognizer/notebooks?sortBy=voteCount&group=everyone&pageSize=20&competitionId=3004)
 
+The dataset is available at [Kaggle](https://www.kaggle.com/c/digit-recognizer/data)(both train and test csv files)
+
+The prediction on test data after traning the model of keras CNNis in the file(cnn_mnist_datagen (1).csv)            
+
 ###### Task-Correctly identify digits from a dataset of tens of thousands of handwritten images.(MNIST datset)
 
 > We will use various machine learning models to see how accurate they are in recogninzing the wriiten digit.
