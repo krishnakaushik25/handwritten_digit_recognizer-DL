@@ -98,6 +98,13 @@ This is also a getting started on computer vision.[challenge on kaggle](https://
 **Building our own Resnet from scratch including data augmentation and callbacks.**                                 
 **Accuracy score - 0.994 :fire: :fire:**
 
-
+## References:
+[Yassine Ghouzam blog](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6), 
+[Andrada Olteanu-Master in kaggle](https://www.kaggle.com/andradaolteanu/pytorch-rnns-and-lstms-explained-acc-0-99), 
+[Guide to RNN](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9), 
+[Guide to LSTM](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21), 
+[Jean Carlo Codogno-github](https://www.kaggle.com/jcodogno/neural-network-using-sgd-98-9), 
+[Kaggle notebook on PCA,forest](https://www.kaggle.com/sflender/comparing-random-forest-pca-and-knn), 
+[rishabhdhiman-github](https://www.kaggle.com/rishabhdhiman/resnet-keras-lb-0-997)
 
 
