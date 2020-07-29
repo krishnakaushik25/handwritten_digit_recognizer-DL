@@ -71,7 +71,7 @@ This is also a getting started on computer vision.[challenge on kaggle](https://
 1.SGD (Stochastic Gradient Descent)- is a optimizer used for fit the neural network, this technique is based by Gradient Descent.                                                  2.MOMENTUM - SGD in training have a lot of oscillations,momentum term is used for soft the oscillations and accelerates of the convergence.                                  
 3.L2 REGULIZER - Technique which is used for penalize the higher weights.
 
-**The third model is Comparing random forest, PCA and kNN for analysis of the MNIST dataset by examining  number of components in PCA vs the variance feature and number of estimators vs the accuracy using sklearn functions - RandomForestClassifier, KNeighborsClassifier, PCA **
+**The third model is Comparing random forest, PCA and kNN for analysis of the MNIST dataset by examining number of components in PCA vs the variance feature and number of estimators vs the accuracy using sklearn functions - RandomForestClassifier, KNeighborsClassifier,PCA.**
 
 **The accuracy score in PCA+KNN is 0.97 and slightly worse score (0.96) for random forest.**
 
