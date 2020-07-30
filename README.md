@@ -8,7 +8,7 @@ The dataset is available at [Kaggle](https://www.kaggle.com/c/digit-recognizer/d
 
 The prediction on test data after traning the model of keras CNNis in the file(cnn_mnist_datagen (1).csv)            
 
-###### Task-Correctly identify digits from a dataset of tens of thousands of handwritten images.(MNIST datset)
+## Task-Correctly identify digits from a dataset of tens of thousands of handwritten images.(MNIST datset)
 
 > We will use various machine learning models to see how accurate they are in recogninzing the wriiten digit.
 
