@@ -2,8 +2,6 @@
 
 ALL the notebooks are implemented in GOOGLE COLAB(free cloud service and  requires no setup to use specifically for ML projects.)
 
-In all of the models implemented, it's AMAZING how important hyperparameters are. Try changing the learning_rate to 0.01 and see what happens. Also try changing the batch_size to 20 instead of 64. Try adding weight_decay to the optimizer functions. The accuracy of the model will be improved , but by altering some of these hyperparameters can change this "sweet spot" we found instantly.
-
 This is a getting started on computer vision [challenge on kaggle](https://www.kaggle.com/c/digit-recognizer/notebooks?sortBy=voteCount&group=everyone&pageSize=20&competitionId=3004)
 
 The dataset is available at [Kaggle](https://www.kaggle.com/c/digit-recognizer/data)(both train and test csv files)
@@ -101,6 +99,8 @@ The prediction on test data after traning the model of keras CNNis in the file(c
 
 **Building our own Resnet from scratch including data augmentation and callbacks.**                                 
 **Accuracy score - 0.994 :fire: :fire:**
+
+In all of the models implemented, it's AMAZING how important hyperparameters are. Try changing the learning_rate to 0.01 and see what happens. Also try changing the batch_size to 20 instead of 64. Try adding weight_decay to the optimizer functions. The accuracy of the model will be improved , but by altering some of these hyperparameters can change this "sweet spot" we found instantly.
 
 ## References:
 [Yassine Ghouzam blog](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6), 
