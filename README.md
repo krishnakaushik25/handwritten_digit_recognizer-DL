@@ -111,4 +111,8 @@ In all of the models implemented, it's AMAZING how important hyperparameters are
 [Kaggle notebook on PCA,forest](https://www.kaggle.com/sflender/comparing-random-forest-pca-and-knn), 
 [rishabhdhiman-github](https://www.kaggle.com/rishabhdhiman/resnet-keras-lb-0-997)
 
+## Support 
+
+If you like this repo and find it useful, please consider (★) starring it (on top right of the page) so that it can reach a broader audience.
+
 
